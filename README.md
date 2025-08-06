@@ -1,5 +1,6 @@
 # GravityThigny
 ## Probably the best (but worste) gorilla tag mod for gravity
+## This Mod Should ONLY Work In Modded Lobbys or when you are not connected to a room
 this mod works only offline or only in a modded lobby (i think)
 any suggestions/chages make a pull reqest or suggestion idk
 **when you load in you should see this gui**
